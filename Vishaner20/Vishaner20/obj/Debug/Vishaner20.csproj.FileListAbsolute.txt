@@ -1,0 +1,14 @@
+C:\Proect_C#\Vishaner20\Vishaner20\bin\Debug\Vishaner20.exe.config
+C:\Proect_C#\Vishaner20\Vishaner20\bin\Debug\Vishaner20.exe
+C:\Proect_C#\Vishaner20\Vishaner20\bin\Debug\Vishaner20.pdb
+C:\Proect_C#\Vishaner20\Vishaner20\obj\Debug\Vishaner20.csproj.AssemblyReference.cache
+C:\Proect_C#\Vishaner20\Vishaner20\obj\Debug\Vishaner20.csproj.SuggestedBindingRedirects.cache
+C:\Proect_C#\Vishaner20\Vishaner20\obj\Debug\Vishaner20.Form1.resources
+C:\Proect_C#\Vishaner20\Vishaner20\obj\Debug\Vishaner20.Properties.Resources.resources
+C:\Proect_C#\Vishaner20\Vishaner20\obj\Debug\Vishaner20.csproj.GenerateResource.cache
+C:\Proect_C#\Vishaner20\Vishaner20\obj\Debug\Vishaner20.csproj.CoreCompileInputs.cache
+C:\Proect_C#\Vishaner20\Vishaner20\obj\Debug\Vishaner20.exe
+C:\Proect_C#\Vishaner20\Vishaner20\obj\Debug\Vishaner20.pdb
+C:\Proect_C#\Vishaner20\Vishaner20\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Proect_C#\Vishaner20\Vishaner20\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Proect_C#\Vishaner20\Vishaner20\obj\Debug\Vishaner20.csproj.CopyComplete
